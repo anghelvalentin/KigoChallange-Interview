@@ -5,7 +5,13 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KigoChallange", "KigoChallange\KigoChallange.csproj", "{F00B5274-3475-4952-B642-538DFAFCDD47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{C3CF6E65-440C-4457-AF28-12CCAC59B36A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "UnitTests\UnitTests.csproj", "{C3CF6E65-440C-4457-AF28-12CCAC59B36A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02A17329-9A4D-4277-8045-DFB318688D26}"
+	ProjectSection(SolutionItems) = preProject
+		..\Kigo Challenge.docx = ..\Kigo Challenge.docx
+		..\KigoChallange4.sql = ..\KigoChallange4.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
